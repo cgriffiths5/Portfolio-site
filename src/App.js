@@ -9,7 +9,11 @@ function App() {
     <BrowserRouter>
     <div class="app">
 
-      <div class="Navigation">
+      <div class="header">
+        <h1 id="name">Chris Griffiths</h1>
+      </div>
+
+      <div class="navigation">
         <Link to="/" class="item">Projects</Link>
         <Link to="/articles" class="item">Articles</Link>
         <Link to="/about" class="item">About</Link>

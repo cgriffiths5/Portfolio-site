@@ -1,4 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
 .App {
   text-align: center;
 }
+
+#name {
+  text-align: left;
+  font-family: 'Concert One', cursive;
+  font-size: 40px;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: black;
+  color: white;
+  font-size: 10px;
+}
+
+.navigation {
+  background-color: chartreuse;
+  border: 2px solid black;
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.item {
+  margin-right: 40px;
+}
+
+.title {
+  font-family: 'Concert One', cursive;
+  font-size: 30px;
+}
+
+.text {
+  font-family: 'Roboto', sans-serif;
+}
+
+.project-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.project-category {
+  font-family: 'Roboto', sans-serif;
+}
+
+
 

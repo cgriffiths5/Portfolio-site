@@ -5,7 +5,7 @@ import './App.css';
 function Project(props) {
     return (
         <div>
-            <h1>Project</h1>
+            <h1 class="title">Project</h1>
             <Thumbnail 
              link=""
              image=""
