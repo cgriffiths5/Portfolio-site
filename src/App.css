@@ -14,14 +14,12 @@
 .header {
   padding: 10px;
   text-align: center;
-  background: black;
+  background: rgb(223, 59, 18);
   color: white;
   font-size: 10px;
 }
 
 .navigation {
-  background-color: chartreuse;
-  border: 2px solid black;
   padding: 5px;
   font-family: 'Roboto', sans-serif;
 }
@@ -47,5 +45,8 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.container {
+  border: 2px solid black;
+}
 
 

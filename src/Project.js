@@ -12,6 +12,7 @@ function Project(props) {
              title="Weather App"
              category="Desktop App"
             />
+            <br />
             <Thumbnail
               link=""
               image=""

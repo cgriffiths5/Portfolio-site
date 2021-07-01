@@ -10,15 +10,14 @@ function App() {
     <div class="app">
 
       <div class="header">
-        <h1 id="name">Chris Griffiths</h1>
-      </div>
-
+      <h1 class="title">Chris Griffiths</h1>
       <div class="navigation">
         <Link to="/" class="item">Projects</Link>
         <Link to="/articles" class="item">Articles</Link>
         <Link to="/about" class="item">About</Link>
-
       </div>
+      </div>
+
 
       <Route exact path="/" component={Project} />
       <Route path="/articles" component={Articles } />
