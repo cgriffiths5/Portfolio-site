@@ -39,10 +39,13 @@
 
 .project-title {
   font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-align: center;
 }
 
 .project-category {
   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 .container {
