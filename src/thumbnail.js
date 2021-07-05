@@ -5,13 +5,13 @@ import './App.css';
 function Thumbnail(props) {
     return (
         <div class="container">
-            <Link to={props.link}>
+            <a href={props.link}>
                 <div class="project-image">
-                    <img src="" alt="project-image"/>
+                    <img src={props.image} alt="project-image" width="300px"/>
                 </div>
                 <div class="project-title">{props.title}</div>
                 <div class="project-category">{props.category}</div>
-            </Link>
+            </a>
         </div>
     )
 }
