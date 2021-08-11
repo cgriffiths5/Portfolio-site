@@ -1,12 +1,12 @@
 import './App.css';
-import {BrowserRouter, Route, Link} from 'react-router-dom';
+import {HashRouter, Route, Link} from 'react-router-dom';
 import Project from './Project.js';
 import Contact from './Contact.js';
 import About from './About.js';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter basename="/">
     <div class="app">
 
       <div class="header">
@@ -24,7 +24,7 @@ function App() {
       <Route path="/about" component={About} />
       
     </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
