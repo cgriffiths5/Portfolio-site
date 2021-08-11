@@ -8,7 +8,7 @@ This is my portfolio site. I will update it as I build more projects.
 
 ### Link to deployed project
 
-### `https://cgriffiths5.github.io/portfolio-site/`
+### `https://cgriffiths5.github.io/Portfolio-site/#/`
 
 ### Usage 
 
