@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-site/static/css/main.bf905f49.chunk.css",
+    "main.js": "/Portfolio-site/static/js/main.e70fcc70.chunk.js",
+    "main.js.map": "/Portfolio-site/static/js/main.e70fcc70.chunk.js.map",
+    "runtime-main.js": "/Portfolio-site/static/js/runtime-main.1751951a.js",
+    "runtime-main.js.map": "/Portfolio-site/static/js/runtime-main.1751951a.js.map",
+    "static/js/2.098586a3.chunk.js": "/Portfolio-site/static/js/2.098586a3.chunk.js",
+    "static/js/2.098586a3.chunk.js.map": "/Portfolio-site/static/js/2.098586a3.chunk.js.map",
+    "static/js/3.b6b7f8c2.chunk.js": "/Portfolio-site/static/js/3.b6b7f8c2.chunk.js",
+    "static/js/3.b6b7f8c2.chunk.js.map": "/Portfolio-site/static/js/3.b6b7f8c2.chunk.js.map",
+    "index.html": "/Portfolio-site/index.html",
+    "static/css/main.bf905f49.chunk.css.map": "/Portfolio-site/static/css/main.bf905f49.chunk.css.map",
+    "static/js/2.098586a3.chunk.js.LICENSE.txt": "/Portfolio-site/static/js/2.098586a3.chunk.js.LICENSE.txt",
+    "static/media/pomodoro-timer.681c1fa5.png": "/Portfolio-site/static/media/pomodoro-timer.681c1fa5.png",
+    "static/media/to-do-list.4e09ab4c.png": "/Portfolio-site/static/media/to-do-list.4e09ab4c.png",
+    "static/media/weather-app.b295576f.png": "/Portfolio-site/static/media/weather-app.b295576f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1751951a.js",
+    "static/js/2.098586a3.chunk.js",
+    "static/css/main.bf905f49.chunk.css",
+    "static/js/main.e70fcc70.chunk.js"
+  ]
+}
