@@ -12,14 +12,14 @@ function App() {
       <div class="header">
       <h1 class="title">Chris Griffiths</h1>
       <div class="navigation">
-        <Link to="/" class="item">Projects</Link>
+        <Link to="/Portfolio-site" class="item">Projects</Link>
         <Link to="/about" class="item">About</Link>
         <Link to="/contact" class="item">Contact</Link>
       </div>
       </div>
 
 
-      <Route exact path="/" component={Project} />
+      <Route exact path="/Portfolio-site" component={Project} />
       <Route path="/contact" component={Contact} />
       <Route path="/about" component={About} />
       

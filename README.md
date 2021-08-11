@@ -1,12 +1,30 @@
-## About
+### Title 
 
-This app is an ongoing project to provide a portfolio site to perspective employers and for my own record. On this app I hope to detail my REACT learning journey.
+pomodoro-timer
 
-## Usage
+### Introduction 
 
-In the project directory you can use 
+This is my portfolio site. I will update it as I build more projects. 
 
-### 'npm start' 
+### Link to deployed project
 
-to start this app.
+### `https://cgriffiths5.github.io/portfolio-site/`
+
+### Usage 
+
+Clone repo 
+
+### `git clone https://github.com/cgriffiths5/portfolio-site`
+
+Go to repo 
+
+### `cd portfolio-site`
+
+To install the app
+
+### `npm install`
+
+To start the app
+
+### `npm start`
 
