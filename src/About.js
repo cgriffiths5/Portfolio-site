@@ -6,7 +6,8 @@ function About(props) {
             <h1 class="title">About</h1>
             <p class="text">
                 My name is Chris. I am currently learning HTML, CSS, and Javascript. This is a porfolio site that 
-                will contain some of my projects. Most of the projects use the React framework.
+                will contain some of my projects. Most of the projects use the React framework. From September 2021 I will 
+                be undertaking a masters degree in Computer Science with the University of York.
             </p>
             <h1 class="title">Skills</h1>
                 <ul>
