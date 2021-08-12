@@ -8,11 +8,6 @@ import './App.css';
 function Project(props) {
     return (
         <div>
-            <h1 class="title">Introduction</h1>
-            <p class="text">I am an aspiring web devloper. My primary focus has been in HTML, CSS and Javascript using the React framework. On this
-              website I hope to document my learning progress and display my projects. I hope to update and track my programming learning journey on
-              this website. 
-            </p>
             <h1 class="title">Projects</h1>
             <div class="flexbox">
 
@@ -44,6 +39,11 @@ function Project(props) {
               />
             </div>
           </div>
+          <h1 class="title">Introduction</h1>
+            <p class="text">I am an aspiring web devloper. My primary focus has been in HTML, CSS and Javascript using the React framework. On this
+              website I hope to document my learning progress and display my projects. I hope to update and track my programming learning journey on
+              this website. 
+            </p>
         </div>
     )
 }
