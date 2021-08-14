@@ -10,22 +10,22 @@ function About(props) {
                 be undertaking a masters degree in Computer Science with the University of York.
             </p>
             <h1 class="title">Skills</h1>
-                <h2>Languages</h2>
-                <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Javascript</li>
-                    <li>Python</li>
+                <h2 class="listtitle">Languages</h2>
+                <ul class="list">
+                    <li class="listitem">HTML</li>
+                    <li class="listitem">CSS</li>
+                    <li class="listitem">Javascript</li>
+                    <li class="listitem">Python</li>
                 </ul>
-                <h2>Frameworks</h2>
-                <ul>
-                    <li>React</li>
-                    <li>Flask</li>
+                <h2 class="listtitle">Frameworks</h2>
+                <ul class="list">
+                    <li class="listitem">React</li>
+                    <li class="listitem">Flask</li>
                 </ul>
-                <h2>Tools</h2>
-                <ul>
-                    <li>Git</li>
-                    <li>GitHub</li>
+                <h2 class="listtitle">Tools</h2>
+                <ul class="list">
+                    <li class="listitem">Git</li>
+                    <li class="listitem">GitHub</li>
                 </ul>
         </div>
     )

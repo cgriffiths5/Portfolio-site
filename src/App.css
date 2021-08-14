@@ -42,6 +42,21 @@
   text-align: center;
 }
 
+.listtitle {
+  font-family: 'Concert One', cursive;
+  font-size: 15px;
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+}
+
+.listitem {
+  display: inline-block;
+  margin: 0 10px;
+}
+
 .text {
   font-family: 'Roboto', sans-serif;
 }
