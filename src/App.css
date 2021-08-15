@@ -145,6 +145,18 @@ li {
   font-family: 'Roboto', sans-serif;
 }
 
+#profile-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8%;
+  -webkit-animation: fadein 7s;
+  -moz-animation: fadein 7s;
+  -ms-animation: fadein 7s;
+  -o-animation: fadein 7s;
+  animation: fadein 7s;
+}
+
 
 
 

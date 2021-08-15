@@ -1,9 +1,13 @@
 import React from 'react'
+import profileImage from './images/profile-pic.jpg'
 
 function About(props) {
     return (
         <div>
             <h1 class="title">About</h1>
+            <div>
+              <img src={profileImage} id="profile-image" alt="profile-image" width="300px" />
+            </div>
             <p class="text">
                 My name is Chris. I am currently learning HTML, CSS, and Javascript. This is a porfolio site that 
                 will contain some of my projects. Most of the projects use the React framework. From September 2021 I will 
