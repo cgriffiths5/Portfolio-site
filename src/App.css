@@ -7,7 +7,7 @@
 
 #name {
   text-align: left;
-  font-family: 'Concert One', cursive;
+  font-family: 'Concert One', sans-serif;
   font-size: 40px;
 }
 
@@ -37,13 +37,13 @@
 }
 
 .title {
-  font-family: 'Concert One', cursive;
+  font-family: 'Concert One', sans-serif;
   font-size: 30px;
   text-align: center;
 }
 
 .listtitle {
-  font-family: 'Concert One', cursive;
+  font-family: 'Concert One', sans-serif;
   font-size: 15px;
   text-align: center;
 }
