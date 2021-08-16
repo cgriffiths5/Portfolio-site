@@ -10,8 +10,8 @@ function About(props) {
             </div>
             <p class="text">
                 My name is Chris. I am currently learning HTML, CSS, and Javascript. This is a porfolio site that 
-                will contain some of my projects. Most of the projects use the React framework. From September 2021 I will 
-                be undertaking a masters degree in Computer Science with the University of York.
+                will contain some of my projects. Most of the projects use the React framework. I will 
+                be undertaking a masters degree in Computer Science with the University of Swansea.
             </p>
             <h1 class="title">Skills</h1>
                 <h2 class="listtitle">Languages</h2>
